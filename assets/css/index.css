@@ -1,0 +1,181 @@
+.logo{
+
+    margin-top: 6%;
+}
+
+.logo-icon {
+
+    background-color: rgb(26, 188, 156);
+    height: 43px;
+    width: 43px;
+    padding: 8.5px 0 0 11px;
+    color: white;
+    border-radius: 5px;
+}
+
+.fa-icon-logo{
+
+    border: 2px solid white;
+    padding: 3px;
+    font-size: 17px;
+
+}
+
+.text-logo{
+
+    padding-left: 0px;
+
+}
+
+.drop{
+
+    box-shadow: 0px 1px 3px #9b9898;
+    width: 63%;
+    background-color: white;
+    border-radius: 5px;
+    display: none;
+    z-index: 1;
+    margin: 13px 0 0 -39px;
+    position: absolute;
+}
+
+ul{
+    list-style: none;
+    padding: 14px 0 0 0px;
+}
+
+li{
+
+    margin-bottom: 12px;
+    cursor:pointer;
+    padding-left:13px;
+
+}
+
+.user-loged{
+
+    border: 1px solid #575757;
+    width: 83%;
+    height: 34px;
+    padding: 4px 0 0 10px;
+    border-radius: 54%;
+
+}
+
+#info-loged{
+
+    padding-top: 50px;
+}
+
+#name-user-loged{
+
+    padding: 4px 0 0 0px;
+    cursor:pointer;
+}
+
+#open-info-perfil{
+
+    padding: 5px 0 0 14px;
+    cursor:pointer;
+
+}
+
+.logout{
+
+    border-top: 2px solid rgb(235, 235, 235);
+    padding: 10px 0 12px 17px;
+
+}
+
+#map{
+
+    background: rgb(247, 247, 247);
+    margin-top: 17px;
+    height: 47px;
+    padding:12px
+
+}
+
+a{
+
+    color:rgb(26, 188, 156)
+
+}
+
+a:hover {
+    color: rgb(26, 188, 156)
+}
+
+#map span,#map a{
+
+    margin-right: 12px;
+
+}
+
+#midlemap{
+
+    background:rgb(186, 235, 225);
+    height: 140px;
+    padding-top: 40px;
+
+}
+
+#midlemap2{
+
+    height: 140px;
+    padding-top: 40px;
+
+}
+
+.iconmidle{
+
+    font-size: 49px;
+    color: #1abc9c;
+
+}
+
+.btnsave{
+
+    background-color:#1abc9c;
+    color:white;
+
+}
+
+.btndiscart{
+
+    background-color:#b5b5b5;
+    color:white;
+
+}
+
+
+h5{
+
+    color: #1abc9c;
+
+}
+
+h6{
+
+    color: #777777;
+
+}
+
+#tableinfo{
+
+    margin-top: 141px;
+
+}
+
+.midlemap3{
+
+    margin: 60px 0 50px 0;
+}
+
+.midlemap4{
+
+    margin: -81px 0 50px 0;
+}
+
+
+
